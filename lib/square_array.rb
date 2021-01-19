@@ -4,4 +4,5 @@ def square_array(array)
   while i < array.length do 
     puts new_numbers.push(array[i])
     i += 1
+  end
 end
