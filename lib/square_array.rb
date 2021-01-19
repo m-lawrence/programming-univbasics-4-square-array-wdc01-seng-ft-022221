@@ -1,7 +1,7 @@
 def square_array(array)
   i = 0 
   while i < array.length do 
-    puts new_numbers.push(array[i])
+    puts array[i]
     i += 1
   end
 end
